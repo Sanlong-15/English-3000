@@ -2,7 +2,7 @@
 
 An offline study page for the 3,000 most common English words, built for Khmer speakers learning English.
 
-**[Open the app](https://YOUR-USERNAME.github.io/english-3000/)** — replace `YOUR-USERNAME` after you enable GitHub Pages.
+**[Open the app](https://sanlong-15.github.io/English-3000/)**
 
 ---
 
